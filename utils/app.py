@@ -56,5 +56,5 @@ def test_with_image(image_path):
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-# test_with_webcam() 
-test_with_image("./datasets/Test/Vandalism007_x264_0.png") 
+test_with_webcam() 
+# test_with_image("./datasets/Train/Abuse/Abuse001_x264_0.mp4_0.jpg") 
